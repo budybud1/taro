@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tarot Tutor",
+  "description": "An interactive application to learn Tarot card reading with AI-powered interpretations from Gemini. Draw cards for a three-card spread and receive an insightful reading.",
+  "requestFramePermissions": []
+}
